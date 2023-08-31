@@ -25,7 +25,7 @@ label1 = tk.Label( main, text="Are you feelling lucky today?", fg='blue',
 label1.pack()
 
 
-# die icons(make sure to give the actual full path of your icons)
+# die icons(make sure to give the actual full path of your images)
 dice = ['die1.png']
 dice.append('die2.png')
 dice.append('die3.png')
